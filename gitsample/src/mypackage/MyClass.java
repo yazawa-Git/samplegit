@@ -6,6 +6,7 @@ public class MyClass {
 		System.out.println("Git Sample!");
 		System.out.println("Git Sample 2!");
 		System.out.println("Git Sample 3!");
+		System.out.println("NotePC!");
 	}
 
 }
