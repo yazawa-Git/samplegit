@@ -9,6 +9,7 @@ public class MyClass {
 		System.out.println("NotePC!");
 		System.out.println("DesktopPC!");
 		System.out.println("DesktopPC 2!");
+		System.out.println("NotePC 2!");
 	}
 
 }
