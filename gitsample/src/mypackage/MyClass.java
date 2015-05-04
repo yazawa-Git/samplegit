@@ -8,6 +8,7 @@ public class MyClass {
 		System.out.println("Git Sample 3!");
 		System.out.println("NotePC!");
 		System.out.println("DesktopPC!");
+		System.out.println("DesktopPC 2!");
 	}
 
 }
